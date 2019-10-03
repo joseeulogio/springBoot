@@ -1,7 +1,7 @@
 package com.example.demo;
 
 public class Address {
-	
+	//clase Address
 	private String city;
 	private String country ;
 	protected Address() {}
